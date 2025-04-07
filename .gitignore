@@ -1,0 +1,18 @@
+# Jupyter & Colab Notebooks
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.so
+.DS_Store
+
+# Colab/Notebook temp
+*.csv
+*.log
+*.sqlite
+.env
+*.zip
+
+# Virtual environments
+venv/
+env/
+ENV/
